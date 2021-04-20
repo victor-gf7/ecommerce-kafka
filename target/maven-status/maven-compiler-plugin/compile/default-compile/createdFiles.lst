@@ -1,0 +1,11 @@
+br\com\orandetalents\ecommerce\KafkaService.class
+br\com\orandetalents\ecommerce\KafkaDispatcher.class
+br\com\orandetalents\ecommerce\Email.class
+br\com\orandetalents\ecommerce\GsonSerializer.class
+br\com\orandetalents\ecommerce\ConsumerFunction.class
+br\com\orandetalents\ecommerce\LogService.class
+br\com\orandetalents\ecommerce\EmailService.class
+br\com\orandetalents\ecommerce\GsonDeserializer.class
+br\com\orandetalents\ecommerce\Order.class
+br\com\orandetalents\ecommerce\FraudDetectorService.class
+br\com\orandetalents\ecommerce\NewOrderMain.class
